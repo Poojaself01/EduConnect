@@ -366,6 +366,7 @@ background: linear-gradient(90deg, rgba(112, 66, 237, 1) 0%, rgba(97, 68, 194, 1
       /* border: 2px solid black; */
       /* max-width: 450px; */
       border-radius: 10px;
+      margin-top: 25px;
     }
 
     /* Key Features */
@@ -730,3 +731,4 @@ background: linear-gradient(90deg, rgba(112, 66, 237, 1) 0%, rgba(97, 68, 194, 1
     align-items: center;
   }
 }
+
